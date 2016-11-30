@@ -20,7 +20,7 @@ interface AdminParams {
  * - encodePassword(passwd) (encoded using private static property ENCODING_STR)
  * Private static properties:
  * - NEXT_UUID
- * - ENCODING_KEY
+ * - ENCODING_STR
  * Private static methods:
  * - generateUuid() (generates next uniq UUID)
  * */
